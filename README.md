@@ -1,2 +1,3 @@
 # IK-ZET6_Roy
-使用IK-ZET6開發版
+基於使用IK-ZET6開發版進行驅動開發
+MCU使用STM32F103RCT6
