@@ -3,7 +3,8 @@
 
 #include "stdint.h"
 
-#define MSG_FIFO_SIZE 40 /* FIFO數量 */
+#define MSG_FIFO_TOTAL 40 /* FIFO數量 */
+#define MSG_FIFO_SIZE (MSG_FIFO_TOTAL + 1)
 
 typedef enum
 {
